@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{041B1808-DF11-4FCB-989F-BE39A5A4BC9A}|https">
+  <MonoDevelop.Ide.ItemProperties.BuildingForms PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuildingForms/Pages/Error.cshtml.cs">
+    <Files>
+      <File FileName="BuildingForms/Program.cs" Line="17" Column="1" />
+      <File FileName="BuildingForms/Views/_ViewStart.cshtml" />
+      <File FileName="BuildingForms/Views/_ViewImports.cshtml" />
+      <File FileName="BuildingForms/Models/Product.cs" />
+      <File FileName="BuildingForms/Views/Home/Create.cshtml" />
+      <File FileName="BuildingForms/Views/Home/Index.cshtml" />
+      <File FileName="BuildingForms/Models/ProductRepository.cs" />
+      <File FileName="BuildingForms/Controllers/Home.cs" Line="7" Column="15" />
+      <File FileName="BuildingForms/Pages/Error.cshtml.cs" Line="17" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BuildingForms" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="BuildingForms" expanded="True">
+            <Node name="BuildingForms" expanded="True">
+              <Node name="BuildingForms" expanded="True">
+                <Node name="Pages" expanded="True">
+                  <Node name="BuildingForms.Pages.ErrorModel" expanded="True">
+                    <Node name="RequestId" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

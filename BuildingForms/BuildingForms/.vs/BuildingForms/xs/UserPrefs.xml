@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{DA588E9F-CE35-4A68-89DD-32173BD3E586}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="BuildingForms">
+            <Node name="BuildingForms" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BuildingForms PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
